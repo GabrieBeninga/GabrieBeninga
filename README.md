@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabrielBeninga
+- 👋 Hi, I’m Gabriel Beninga
 - 👀 I'm interested in learning Python, BI, and data analysis
 - 🌱 I'm currently learning BI, Python and SQL
 - 💞️ I'm looking to collaborate on anything that's a challenge

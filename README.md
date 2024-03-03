@@ -1,8 +1,39 @@
-- 👋 Hi, I’m Gabriel Beninga
-- 👀 I'm interested in learning Python, BI, and data analysis
-- 🌱 I'm currently learning BI, Python and SQL
-- 💞️ I'm looking to collaborate on anything that's a challenge
-- 📫 You can contact me on LinkedIn at the link: https://www.linkedin.com/in/gabriel-beninga-3887b5168
+Comecei minha trajetória na área de vendas e posteriormente atuei em telemarketing, onde tive minha primeira promoção a supervisor. Nessa experiência tive a oportunidade de desenvolver projetos no Excel como Dashboards para analisar e encontrar melhorias para os funcionários, também para o setor em geral, comparações e principais motivos de contato dos clientes.
+
+Foi então que descobri minha paixão por dados, gráficos e inteligência de mercado! Então, busco me profissionalizar na área pela EBAC, para ser um futuro Analista de Dados.
+
+Sou uma pessoa extremamente dedicada a ser o melhor no que posso fazer, gosto de me desafiar, amo um trabalho que me dê essa oportunidade de mostrar minhas competências. E com tudo isso, resolver e identificar problemas é o meu ponto forte.
+
+🎓Hard Skills:
+
+• Gestão e liderança
+• Análise de dados
+• Excel
+• Power BI
+• DAX
+
+🧠 Campos em desenvolvimento:
+
+• Python
+• SQL
+• Big Data & Analytics
+• ETL
+• Machine Learning
+• Numpy
+• Google Data Studio
+• Git e Github
+• Amazon Web Services
+• Seaborn
+• Big Data
+• Spark
+• Apache Spark
+• Pandas
+• PySpark
+• Pyarrow
+• ETL
+
+Fique a vontade para olhar meus projetos e aprendizagem no meu perfil.
+Contato: gabrielbeninga2@gmail.com ou WhatsApp: (41) 98406-0578
 
 
 <!---
